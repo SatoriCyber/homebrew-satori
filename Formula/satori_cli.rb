@@ -1,4 +1,4 @@
-class Satoricli < Formula
+class Satori < Formula
     desc "Allow Satori users to obation database crendtials without the need to login to the Satori data portal"
     homepage "https://github.com/SatoriCyber/satori-cli" 
     url "https://github.com/SatoriCyber/satori-cli/releases/download/v0.0.1/satori-0.0.1-macOS.tar.gz" 
