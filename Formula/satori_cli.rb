@@ -9,7 +9,7 @@ class SatoriCli < Formula
       bin.install "satori"
   
       # Install the auto-complete script
-      bash_completion.d.install "satori_auto_complete.zsh"
+      bash_completion.install "satori_auto_complete.zsh"
     end
   
     def caveats
