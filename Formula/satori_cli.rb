@@ -1,9 +1,9 @@
 class SatoriCli < Formula
     desc "Allow Satori users to obtain database credentials without the need to log in to the Satori data portal"
     homepage "https://github.com/SatoriCyber/satori-cli"
-    url "https://github.com/SatoriCyber/satori-cli/releases/download/v0.0.27/satori-0.0.27-macOS.tar.gz"
-    sha256 "ad4a1c3ac90b0604757a8d11ef52908eaac5f9846b7502f0795c16c73d465835"
-    version "0.0.27"
+    url "https://github.com/SatoriCyber/satori-cli/releases/download/v0.0.28/satori-0.0.28-macOS.tar.gz"
+    sha256 "51d341d0b465115e80be3809111c28a56bbfc217cc9177e249efc15525add41c"
+    version "0.0.28"
   
     def install
       bin.install "satori"
